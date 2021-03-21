@@ -1,0 +1,1 @@
+web: gunicorn gainkub.wsgi --log-file -
